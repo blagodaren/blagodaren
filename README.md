@@ -4,7 +4,7 @@
 </a> -->
 
 <div>
-  <img src="nerv.gif" alt="nerv" width="65%" align="left"/>
+  <img src="nerv.gif" alt="nerv" width="55%" align="left"/>
   <div align="left" width="20%">
     <h3>Have placed My Hands On :</h3>
     <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
