@@ -5,7 +5,7 @@
 
 <div>
   <img src="nerv.gif" alt="nerv" width="65%" align="left"/>
-  <div align="left" style="margin-left: 70%; padding-top: 0;">
+  <div align="right" style="margin-left: 70%; padding-top: 0;">
     <h3>Have placed My Hands On :</h3>
     <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
     <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash"/>
