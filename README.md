@@ -3,13 +3,13 @@
   <img src="https://github.com/blagodaren/blagodaren/blob/main/nerv.gif" alt="nerv" style="width:100%; height:auto; left: 50%;"/>
 </a> -->
 
-<table>
-  <tr>
-    <td width="60%">
+<table border="0" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td width="60%" style="border: none;">
       <img src="nerv.gif" alt="nerv" style="width:100%; height:auto;"/>
     </td>
-    <td width="40%">
-      <h3>Have placed My Hands On :</h3>
+    <td width="40%" style="border: none; vertical-align: top;">
+      <h3 style="margin-top: 0; padding-top: 0;">Have placed My Hands On :</h3>
       <p>
         <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/><br>
         <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash"/><br>
